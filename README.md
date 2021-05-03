@@ -12,7 +12,7 @@ This spreadsheet contains the following sheets:
 
 5) RationaleBehindPEPDecisions.xlsx - This spreadsheet contains the description of each rationale behind PEP decisions and sample sentences that depict the rationale behind their decisions for the 248 accepted and rejected PEPs. Description of each rationale and their proportions grouped by PEP types are also included. 
 This spreadsheet contains the following sheets:
- - Rationale
+ - Rationale Descriptions
  - Rationale Sentences
  - Rationale by DM Scheme
  - Rationale by PEP type
