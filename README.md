@@ -14,7 +14,7 @@ Supplementary data includes three items.
  - Rationale Sentences
  - Rationale by DM Scheme
  - Rationale by PEP type
- - Ratioanel with PEp numbers
+ - Ratioanel with PEP numbers
 
 The publication is related to our reserach project investigating Decision-making processes in Open source software development communities. 
 
