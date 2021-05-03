@@ -4,12 +4,14 @@ This repository contains supplementary data for our paper titled "Influence of R
 Supplementary data includes three items.
 1) manuallyExtractingReasons.png - A screenshot of the tool we developed which was used to infer and capture the rationale behind PEP decisions. This tool allowed us to manually go through and analyse the messages related to each of the 248 accepted or rejected PEPs.
 
-2) EmailContributionsAndSNAMetrics.xlxs - This spreadsheet contains a number of sheets which highlight different information related to how memebers from different Python roles contribute in Decision-making discussions in 415 PEPs when the project leader (Python BDFL) makes the PEP decisions against the 51 PEPs when the deicisons are made by others in the Python community (as BDFL Delegates). This includes the social roles they perform in DM discussions, and the Social network Analysis metrics. This spreadsheet contains the follwing sheets:
+2) EmailContributionsAndSNAMetrics.xlxs - This spreadsheet contains a number of sheets which highlight different information related to how memebers from different Python roles contribute in Decision-making discussions in 415 PEPs when the project leader (Python BDFL) makes the PEP decisions against the 51 PEPs when the deicisons are made by others in the Python community (as BDFL Delegates). This includes the social roles they perform in DM discussions, and the Social network Analysis metrics. 
+This spreadsheet contains the following sheets:
  - Overall Contributions
  - Contributions by PEP type
  - SNA Metrics
 
-5) RationaleBehindPEPDecisions.xlsx - This spreadsheet contains the description of each rationale behind PEP decisions and sample sentences that depict the rationale behind their decisions for the 248 accepted and rejected PEPs. Description of each rationale and their proportions grouped by PEP types are also included. This spreadsheet contains the follwing sheets:
+5) RationaleBehindPEPDecisions.xlsx - This spreadsheet contains the description of each rationale behind PEP decisions and sample sentences that depict the rationale behind their decisions for the 248 accepted and rejected PEPs. Description of each rationale and their proportions grouped by PEP types are also included. 
+This spreadsheet contains the following sheets:
  - Rationale
  - Rationale Sentences
  - Rationale by DM Scheme
