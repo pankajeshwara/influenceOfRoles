@@ -18,9 +18,7 @@ Supplementary data includes three items.
 
 The publication is related to our reserach project investigating Decision-making processes in Open source software development communities. 
 
-The paper is also available here (Read Only). A preprint version of this paper is available on ResearchGate [DOI: 10.13140/RG.2.2.28548.27523] and arXiv. 
-
-These projects are research projects that deal with the use of a recently proposed technique in literature: Deep Convolutional Neural Networks (CNNs). 
+The paper is also available here (Read Only). A preprint version of this paper is available on ResearchGate [DOI: 10.1145/3463274.3463326] and arXiv. 
 
 
 Authors
