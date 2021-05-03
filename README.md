@@ -16,7 +16,7 @@ This spreadsheet contains the following sheets:
  - Rationale Sentences
  - Rationale by DM Scheme
  - Rationale by PEP type
- - Ratioanel with PEP numbers
+ - Rationale with PEP numbers
  - Top 5 Rationale Bar Chart
 
 The publication is related to our reserach project investigating Decision-making processes in Open source software development communities. 
